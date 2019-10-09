@@ -7,9 +7,9 @@ class Connection {
 
       const config = {
         connectionLimit: 100,
-        host: 'localhost',
+        host: '35.238.222.111',
         user: 'root',
-        password: 'password',
+        password: 'G0oglecloudsucks!',
         database: 'admin'
       }
 
