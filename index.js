@@ -15,7 +15,7 @@ app.use('/users', usersRouter)
 app.use('/auth', authRouter)
 
 app.get('/', (req, res) => {
-  res.send('Welcome to my server! scruuuuuuuuub')
+  res.send('Welcome to my updated server! still a scruuuuuuuuub')
 })
 
 app.listen(port, () => {
